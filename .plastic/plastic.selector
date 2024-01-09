@@ -1,0 +1,4 @@
+repository "4.GameMechanics@barvep@cloud"
+  path "/"
+    br "/main"
+    co "/main"
